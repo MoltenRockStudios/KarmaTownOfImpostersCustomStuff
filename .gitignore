@@ -1,7 +1,8 @@
-*
-!.gitignore
-!/TownOfImpostors_CustomHats
-!/TownOfImpostors_Data
-!makelinks.bat
-
-
+*.exe
+*.dll
+*.ini
+*.txt
+*.bat
+mono
+Among Us_Data
+BepInEx
