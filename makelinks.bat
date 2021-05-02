@@ -1,6 +1,7 @@
 @echo OFF
 
-set currentDir=%CD%
+setlocal
+set currentDir=%~dp0
 echo Current Directory: %currentDir%
 
 set /p outputDir=Paste your Among-Us install Directory here: 
