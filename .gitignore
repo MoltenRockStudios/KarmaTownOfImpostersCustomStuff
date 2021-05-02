@@ -2,5 +2,6 @@
 !.gitignore
 !/TownOfImposters_CustomHats
 !/TownOfImposters_Data
+!makelinks.bat
 
 
